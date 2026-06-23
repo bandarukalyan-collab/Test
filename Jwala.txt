@@ -1,0 +1,400 @@
+DELL:
+---------
+	
+	Concur:
+	
+	URL: https://www.concursolutions.com/nui/signin
+	UID: 794587@dell
+	PWD: Kalyan1234#
+	
+	Medibuddy:
+	
+	URL: https://portal.medibuddy.in/Home.aspx
+	UID: 794587@dell	
+	PWD: Kalyan1234#
+	
+	ADP :
+
+	https://myaccess.dell.com/home/dell_adppayrollemc_1/0oa1d72kps07lKJjF0x8/aln1d72ujy6k8eQMT0x8
+	
+	UID: 794587
+	PWD: May_Madhuri2022
+	
+	Inspire:
+	
+	https://www.globoforce.net/microsites/t/home?client=dell
+	
+	Dell UserInfo:
+	
+	https://tmx.amer.dell.com/usr.nfo/
+	
+	MY HR Link:
+	
+	URL: https://idcs-b64cb2f6a05149b7ad57d29905afc085.identity.oraclecloud.com/ui/v1/signin
+	
+	CNHDeal:
+	
+	https://www.connectandheal.com/login
+
+	Dell Medical Insurance
+	
+	URL: https://www.fhpl.net/ ( Logins -> E-Card )
+	Corporate ID: 72
+	UID: 794587
+	PWD: Kalyan1234#
+	
+	Dell Courses:
+	
+	https://dell-console.lrn.com/learn/queue
+	
+	Dell HR benefits:
+	
+	https://event.webcasts.com/starthere.jsp?ei=1361608&tp_key=5899f18914
+	
+	Dell Cause Card:
+
+	https://dell.yourcause.com/home#/home
+	
+	Dell personifyhealth:
+	
+	https://app.personifyhealth.com/#/home
+	PWD: Jul_Madhuri2026
+
+LEARNING COURSES:
+-----------------
+	Dell Training Requests Site:
+	
+	URL: https://digitalpeople.dell.com/
+	
+	Dell Ideas : https://dell.brightidea.com/FY26GOInnovationOlympics/boards
+	
+	Dell Training Tuesday Series:
+
+	https://confluence.dell.com/display/DD/FY26+Training+Tuesday+Series
+	
+	Dell University:
+	
+	https://dell.sharepoint.com/sites/digitaluniversity
+	
+	https://dell.sharepoint.com/sites/digitaluniversity/SitePages/Digital-Learning-Month.aspx
+	
+	https://dell.sharepoint.com/sites/strategictechnologies
+	
+	Dell Percipio:
+	
+	https://dell.percipio.com/
+	
+	https://dell.percipio.com/customlibrary/c61b87f2-098e-4410-b5f4-cb4715d3acfd/7b1e7b0d-3ffc-4bf2-84f4-c05469500c8c -- Python SkillChallenge
+
+	https://dell.percipio.com/profile/programs/e1965544-8d2b-4ae2-827f-cd87c535badc/cohorts/56b51b58-d78b-432e-b8bb-cab346e57d51?tab=completed
+	
+	ScrumAlliance:
+	
+	URL: https://www.scrumalliance.org/login
+	UID: kbandaru3
+	PWD: Kalyan1234#
+	
+	UID: kbandaru5
+	PWD: Jul_2018-
+
+	jwala.bandaru@gmail.com
+	jwala.1234
+
+CURRENT BILL:
+-------------
+	Hyderabad Current Bill
+	
+	URL: http://www.billdesk.com/APCPDCL/apcpdcl.htm
+	Service Number: 2201106186 
+	Unique Service Number: 108394654
+	
+	Home Power Bill
+
+	URL: https://payments.billdesk.com/MercOnline/CPDCLAPPGController
+	Service No:4411215003185 (BANDARU KALYAN Mokkala Sthalam)
+	Service No:4411215001924 (BANDARU JWALA NARASIMHAM)
+	Service No:4411215002606 (BANDARU SIVA PARVATHI)
+	Service No:4411215002656 (BANDARU KARTEEK)
+	Service No:4411215002916 (BANDARU KALYAN)
+	Service No:4411215003670 (BANDARU SIVA PARVATHI New House)
+
+HP GAS:
+-------
+	URL: https://myhpgas.in/myHPGas/PortalLogin.aspx
+	UID: bandaru.kalyan@gmail.com
+	PWD: Kalyan1234
+	
+INDANE GAS:
+-----------
+	
+	URL: https://cx.indianoil.in/webcenter/portal/Customer
+	UID: bandaru.kalyan@yahoo.co.in / 9000160030
+	PWD: kalyaN1234@
+	
+ONLINE SHOPPING:
+----------------
+
+	URL: https://www.amazon.in/
+	UID: bandaru.kalyan@gmail.com
+	PWD: BajiKalyan@23081986
+
+FINANCE:
+--------
+
+	Income Tax Link:
+	
+	URL: https://eportal.incometax.gov.in/iec/foservices/#/login
+	UID: BDNPK1237N
+	PWD: Jul_2022@
+	DOB: 23/08/1986
+
+	CREDITMANTRI:
+	
+	URL: https://www.creditmantri.com
+	
+	https://kite.zerodha.com/
+	 
+	UID: 9849605044
+	PWD: Kalyan1234#
+
+	ID: XLX770
+	PWD: 230886
+	
+PERSONAL DETAILS:
+-----------------
+	
+	AADHAR CARD Details:
+	
+	URL: http://eaadhaar.uidai.gov.in/
+	
+	Kalyan Aadhar No: 669022762371
+	Madhuri Aadhar No: 719688309616
+	Jwala Aadhar No: 791468779375
+	Parvathi Aadhar No: 401423348297
+	G S Prasad: 316925823897
+	Nikhileswari: 247550696716
+	Aadhar Name: BANDARU KALYAN DOB: 23-AUG-1986	
+	
+	DRIVING LICENSE Details
+	
+	Driving License No: AP02720110024263	Issued On: 02-Sep-2011
+	
+	PAN Card Details
+	
+	Kalyan PAN Card No: BDNPK1237N (DOB: 23-AUG-1986)
+	Madhuri PAN No: BHSPG6054J
+	Jwala Narasimham PAN No:AVPPB7000H
+	Siva Parvathi PAN No:AVPPB7058R	
+	
+	PASSPORT Details
+	
+	Name: KALYAN BANDARU
+	Passport No: S3385771
+	DOB: 23-AUG-1986
+	Place of Issue: Hyderabad
+	Date of Issue: 26-Jul-2018	Date of Expire: 25-Jul-2028
+	Address: S/O Jwala Narasimham, 14-26, Weavers Colony, Thotavaripalem,Ipurupalem, Chirala, Prakasam, Andhra Pradesh. Pin: 523166
+	File No: HY2071378353318
+	
+	Name: MADHURI BANDARU
+	Passport No: M3432168
+	DOB:15/10/1990
+	Place of Issue: HYDERABAD
+	Date of Issue: 31/12/2024  Date of Expire: 30/12/2034
+	Address: PNO-508,F NO-302, Prasanna Apts, Gokul Plots, Venkataramana Colony, Medchal, Pin: 500072, Telangana, India
+	File No: HY2077190692724
+	
+	VOTERID ( AP ) Details
+	
+	Voter ID: SYX0603747
+	Name: KALYAN BANDARU
+	Address: 14-26, Weavers Colony,Thotavaripalem, Chirala, Prakasam,Andhra Pradesh. Pin: 523166
+	
+	Madhuri VoterID: SYX1096700
+	Jwala VoterID: SYX0603648
+	Parvathi VoterID: SYX0705535
+	Karteek VoterID: SYX0705311
+	NIKILESWARY VoterID: AEJ1393438
+	G S Prasad VoterID: AEJ1452598
+	
+	VOTERID ( Telangana ) Details
+	
+	Voter ID: WKH1577214
+	Name: KALYAN BANDARU
+	Address: 8-3-229/A6/1
+	Circle: 10.A Khairatabad
+	Ward: 96-YOUSUFGUDA
+	Sl.No.in Part:27
+	Part Number & Polling station Location Name:161-GNANA KSHETRA PRE PRIMARY SCHOOL HNO 8-3-232/C/29
+	Assembly: Jubilee Hills
+	GHMC PS No - PS Name: Gnana Kshetra Pre Primary School H.No.8-3-232/C/29, Venkatgiri, Yousufguda.
+
+	VoterCard Name Checking:
+	
+	URL: http://www.ceotelangana.nic.in/
+	
+	BIKE Registration Details
+	
+	Registration No: TS07EN0347
+	Registration Owner: BANDARU KALYAN
+	Maker's Class: MOTOR CYCLE
+	Month of Manufacturing: May-2015
+	Chassis Number: ME4JF504EFT337683
+	Engine Number: JF50ET2337418
+	Date of Registration: 22-June-2015
+	Registration Valid upto: 21-June-2030
+	
+	GAS Details ( Kalyan )
+	
+	LPG ID: 2 1150 8021 0000 0276
+	Consumer No: 616578
+	Distributor Code: 41037990
+	Distributor Name: MADEENAGUDA HP GAS AGENCY
+	Distributor Address: Plot no-8, 1st Floor Mini Industrial estate, HAFEEZPET IBRAHIMPATNAM
+	Address: PNO-508,FNO-302,PRASANNA APTS, GOKUL PLOTS,VENKATARAMANA COLONY, KUKATPALLY,HYDERABAD
+	
+	GAS Details ( Home )
+	
+	LPG ID: 3 7500 0000 4290 2833
+	Consumer No: 7542902833
+	Distributor Name: GOVINDHA SAI INDANE
+	Address: W/ JWALA NARASIMHA RAO 2ND LINE BANDARU COLONY THOTAVARIPALEM BAPATLA Andhra Pradesh 523166
+	
+	Siva Parvathi DOB: 24-11-1967
+	
+	Siva Parvathi DOB: 23-Aug-1967
+	Siva Parvathi DOB: 24-01-1968 ( As per UNION Bank )
+	Madhuri DOB: 15-Oct-1990
+	Dhrushil Kumar DOB: 25-Apr-2017
+
+TRAVELS:
+--------
+	IRCTC Login
+	
+	URL: https://www.irctc.co.in/
+	UID: B_Kalyan1 -- 9849605044
+	PWD: Dec@Kalyan2025
+	
+	UID: B_Kalyan2 -- 8106250690
+	PWD: Dec@Kalyan2025
+	
+	UID: MadhuriB12 -- 8179024112
+	PWD: Dec@Kalyan2025
+
+PASSPORT:
+---------
+
+	URL: https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink
+	UID: B_KALYAN
+	PWD: kAlyan1234#
+	
+OTHERS:
+-------
+	
+	NAUKRI Login
+	
+	URL: https://www.naukri.com/
+	UID: bandaru.kalyan@gmail.com
+	PWD: Kalyan1234	
+		
+	TTDSEVAONLINE Login
+	
+	URL: https://tirupatibalaji.ap.gov.in/#/login
+	
+	https://tirupatibalaji.ap.gov.in/#/userLogin
+
+	UID: bandaru.kalyan@yahoo.co.in --Kalyan AADHAR [9849605044]
+	PWD: kAlyan1234#
+	
+	UID: jwala.bandaru@gmail.com --Jwala AADHAR [9000160030]
+	PWD: Jwala1234#
+	
+	UID: bandaru.kalyan123@yahoo.co.in --Jwala Voter [9000288662]
+	PWD: Kalyan1234#
+
+	UID: sarath.kalyan@yahoo.co.in --Prasad AADHAR [8106250690]
+	PWD: Kalyan1234#
+	
+	UID: bandaru.kalyan@gmail.com --Prasad Voter [9246653759]
+	PWD: Kalyan1234#
+	
+	UID: madhuri.guddanti@gmail.com --Kalyan Voter [8179024112]
+	PWD: Madhu1234#
+	
+	NationalSkillsRegistry:
+	
+	URL: https://nationalskillsregistry.com/
+	ITPIN: 831034787360
+	UID: Kalyan
+	PWD: Kalyan1234#
+	Transaction PWD: Jun#2016
+
+YAHOOMAIL:
+---------
+
+	UID: bandaru.kalyan@yahoo.co.in
+	PWD: karteek2
+	
+	UID: sarath.kalyan@yahoo.co.in
+	PWD: karteek2
+	
+	UID: bandaru.kalyan123@yahoo.co.in
+	PWD: karteek2
+	
+	UID: karteek_kalyan123@yahoo.co.in
+	PWD: karteek2
+	
+PROVIDENT FUND:
+---------------
+	EPF
+	URL: https://unifiedportal-mem.epfindia.gov.in/memberinterface/
+	UAN NO: 100107434719
+	PWD: kaLyan1234#
+	
+	EPF Grievance
+	URL: http://epfigms.gov.in/
+
+	TCS PF No: MH BAN 48475 334986 ( 21-Dec-2009 To 23-Mar-2015 )
+	TCS Pension No: MH/BAN/48475/155772
+	TEK Systems PF No: KN/41023/10696 ( 26-Mar-2015 To 16-Oct-2015 )
+	DELL PF No: BG BNG 24960 70507 ( 19-Oct-2015 To Till Date )
+	
+INSURANCE:
+----------
+	ICICI 2 Wheeler Insurance Details 
+	
+	URL: https://www.icicilombard.com/	
+	Policy No: 300530550396301000
+	UID: bandaru.kalyan@gmail.com
+	PWD: band1986
+
+ORACLE Certification:
+--------------------
+	Pearsonvue Link: vue.com/oracle
+	UID: bandaru.kalyan
+	PWD: P@ssw0rd@$44487
+	Certification View Link: https://login.oracle.com/mysso/signon.jsp
+	https://education.oracle.com/pls/eval-eddap-dcd/ocp_interface.home
+	https://brm-certview.oracle.com/pls/certview/ocp_interface.ocp_candidate_login?p_include=Y&p_org_id=1001&p_lang=US
+	https://www.youracclaim.com
+
+	http://www.certexams.com/oracle-certification/books.htm
+	UID: bandaru.kalyan@gmail.com
+	PWD: BajiKalyan@23081986
+	
+	Oracle Test ID : OC1558584 ( 1Z0-051 Oracle Database 11g: SQL Fundamentals I )
+	Oracle Test ID : OC1558584 ( 1Z0-052 Oracle Database 11g: Administratia€We’j
+
+https://www.sihub.in/managesi/hdfcbank/#/home/login
+
+UID: bandaru.kalyan@yahoo.co.in
+PWD: kaLyan1234#
+
+https://www.sihub.in/managesi/idfcfirstbank
+
+UID: bandaru.kalyan@yahoo.co.in
+PWD: KalyanMa26@@
+
+OpenAPI Key
+
+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
